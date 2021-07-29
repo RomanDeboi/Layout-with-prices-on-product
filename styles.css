@@ -44,13 +44,13 @@
   text-align: center;
 }
 .price-card__price_theme-green {
-  background: #5BB189;
+  background: #5bb189;
 }
 .price-card__price_theme-blue {
-  background: #3A6BA5;
+  background: #3a6ba5;
 }
 .price-card__price_theme-orange {
-  background: #EC632A;
+  background: #ec632a;
 }
 .price-card__description {
   margin-top: 40px;
@@ -74,7 +74,7 @@
   line-height: 50px;
 }
 .price-card__advantage:nth-child(odd) {
-  background-color: #2A3438;
+  background-color: #2a3438;
 }
 .price-card__advantage_theme-green {
   background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png) no-repeat 22px 18px;
@@ -90,22 +90,22 @@
   height: 40px;
   margin-top: 39px;
   border-radius: 20px;
-  background-color: #5BB189;
+  background-color: #5bb189;
   font-weight: 400;
   font-size: 14px;
   line-height: 40px;
   text-align: center;
-  color: #FFFFFF;
+  color: #ffffff;
   text-decoration: none;
 }
 .price-card__btn_theme-green {
-  background-color: #5BB189;
+  background-color: #5bb189;
 }
 .price-card__btn_theme-blue {
-  background-color: #3A6BA5;
+  background-color: #3a6ba5;
 }
 .price-card__btn_theme-orange {
-  background: #EC632A;
+  background: #ec632a;
 }
 
 .badge {
@@ -117,7 +117,7 @@
   top: 31px;
   margin: 0;
   text-align: center;
-  background: #DC3F45;
+  background: #dc3f45;
   font-weight: 700;
   font-size: 14px;
   line-height: 25px;
@@ -132,7 +132,7 @@ html {
   font-family: "Montserrat", sans-serif;
   font-size: 15px;
   font-weight: 300;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .prise-page {
@@ -144,7 +144,7 @@ html {
   justify-content: center;
   align-items: center;
   overflow-x: hidden;
-  background: #141B1C;
+  background: #141b1c;
 }
 
 /*# sourceMappingURL=styles.css.map */
