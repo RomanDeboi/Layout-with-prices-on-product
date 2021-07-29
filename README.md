@@ -1,4 +1,4 @@
-# Template with prices on product
+# Layout with prices on product
 
 ### [Site link](https://romandeboi.github.io/Gromcode/HTML_CSS/lesson25/index.html)
 
