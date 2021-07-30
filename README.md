@@ -2,7 +2,7 @@
 
 ### [Site link](https://romandeboi.github.io/Layout-with-prices-on-product/index.html)
 
-Layout supports only desktop version
+Layout supports only desktop (from-1180) version
 
 ### The tech stack is:
 
